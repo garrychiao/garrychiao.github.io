@@ -1,0 +1,36 @@
+{
+  "name": "Garry Chiao",
+  "headline": "Full‑stack artisan",
+  "location": "Taipei, Taiwan",
+  "experience": [
+    {
+      "company": "(Add company)",
+      "role": "(Add role)",
+      "period": "YYYY — YYYY",
+      "location": "",
+      "bullets": [
+        "Built and shipped web products end‑to‑end.",
+        "Owned UI, API integration, and deployment."
+      ]
+    }
+  ],
+  "skills": [
+    "JavaScript/TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Firebase",
+    "GCP"
+  ],
+  "education": [
+    {
+      "school": "(Add school)",
+      "degree": "(Add degree)",
+      "period": ""
+    }
+  ],
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/garrychiao" },
+    { "label": "Email", "url": "mailto:you@example.com" }
+  ]
+}

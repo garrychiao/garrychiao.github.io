@@ -1,0 +1,18 @@
+[
+  {
+    "title": "TzuChi — Project Collection",
+    "summary": "A collection of web projects (events, info portal, map embeds) built with Next.js.",
+    "tags": ["Next.js", "React", "GCP", "Firebase"],
+    "url": "https://community.tzuchi.org/",
+    "repo": "",
+    "screenshot": ""
+  },
+  {
+    "title": "BillyKingShop",
+    "summary": "E-commerce tooling for managing Steam inventory, translations, and workflows.",
+    "tags": ["React", "Firebase", "Google Sheets"],
+    "url": "",
+    "repo": "",
+    "screenshot": ""
+  }
+]

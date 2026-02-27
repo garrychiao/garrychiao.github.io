@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Tzu Chi Community",
+    "summary": "Community portal with structured content, search, scripts/courses resources, and multi-level community pages.",
+    "tags": [
+      "Next.js",
+      "React",
+      "Content Platform"
+    ],
+    "url": "https://community.tzuchi.org/",
+    "repo": "",
+    "screenshot": "assets/tzuchi/6ca95d8a-3f64-4fc2-b6d2-1c9666dc6245.jpg",
+    "category": "tzuchi"
+  },
+  {
+    "title": "Tzu Chi Info",
+    "summary": "News and information hub with categories, tags, search, and article detail pages.",
+    "tags": [
+      "Next.js",
+      "React",
+      "Search"
+    ],
+    "url": "https://info.tzuchi.org/",
+    "repo": "",
+    "screenshot": "assets/tzuchi/140fdce2-6e7c-4718-9943-72e33644dd4b.jpg",
+    "category": "tzuchi"
+  },
+  {
+    "title": "Tzu Chi Books (E‑Book Library)",
+    "summary": "Digital publication library with browsing, search, and book detail pages.",
+    "tags": [
+      "Next.js",
+      "React",
+      "Library"
+    ],
+    "url": "https://tcbooks.tzuchi.org/",
+    "repo": "",
+    "screenshot": "assets/tzuchi/cd3c6d36-d43b-41b1-af79-79075bc932a1.jpg",
+    "category": "tzuchi"
+  },
+  {
+    "title": "Tzu Chi Annual Report",
+    "summary": "Year-based annual report site with multiple sections and story pages.",
+    "tags": [
+      "Next.js",
+      "React",
+      "Editorial"
+    ],
+    "url": "https://annualreport.tzuchi.org.tw/2024",
+    "repo": "",
+    "screenshot": "assets/tzuchi/5054109e-5984-47bd-9845-3e27b140f208.jpg",
+    "category": "tzuchi"
+  },
+  {
+    "title": "Tzu Chi Event —募心募愛",
+    "summary": "Campaign landing experience for donations and outreach.",
+    "tags": [
+      "Next.js",
+      "React",
+      "Landing"
+    ],
+    "url": "https://tzuchi-event-prod-154845293161.asia-east1.run.app",
+    "repo": "",
+    "screenshot": "assets/tzuchi/2cbf15c2-fc6a-420f-a58b-51454bf1670e.jpg",
+    "category": "tzuchi"
+  },
+  {
+    "title": "Tzu Chi Buddha Day",
+    "summary": "Multi-language Buddha Day event site.",
+    "tags": [
+      "Next.js",
+      "i18n",
+      "Landing"
+    ],
+    "url": "https://tzuchi-buddhaday-prod-948322775129.asia-east1.run.app/zh",
+    "repo": "",
+    "screenshot": "assets/tzuchi/a8c10150-558a-49c8-9684-dd057ca99dc0.jpg",
+    "category": "tzuchi"
+  },
+  {
+    "title": "Auspicious Month (七月吉祥月)",
+    "summary": "Annual campaign site with year-based content.",
+    "tags": [
+      "Next.js",
+      "React",
+      "Annual"
+    ],
+    "url": "https://auspicious.tzuchi.org.tw/2025",
+    "repo": "",
+    "screenshot": "assets/tzuchi/8b759974-b73b-4f86-bf56-01862648f1ac.jpg",
+    "category": "tzuchi"
+  },
+  {
+    "title": "Year‑End Blessing (歲末祝福)",
+    "summary": "Year-end blessing event site with annual routes.",
+    "tags": [
+      "Next.js",
+      "React",
+      "Annual"
+    ],
+    "url": "https://blessing.tzuchi.org.tw/2025",
+    "repo": "",
+    "screenshot": "assets/tzuchi/626055f8-6f4d-4660-ad65-e9cf54c31406.jpg",
+    "category": "tzuchi"
+  },
+  {
+    "title": "CNY (精舍過心年)",
+    "summary": "Chinese New Year campaign site with yearly content.",
+    "tags": [
+      "Next.js",
+      "React",
+      "Annual"
+    ],
+    "url": "https://cny.tzuchi.org.tw/2026",
+    "repo": "",
+    "screenshot": "assets/tzuchi/ebbf4996-c8f2-428a-a263-441f2fbd77a7.jpg",
+    "category": "tzuchi"
+  },
+  {
+    "title": "Jobbly",
+    "summary": "Chrome extension + web platform helping overseas students in the U.S. manage resumes, find jobs, and track applications.",
+    "tags": [
+      "Chrome Extension",
+      "Web Platform"
+    ],
+    "url": "https://jobbly.io/",
+    "repo": "",
+    "screenshot": "",
+    "category": "other"
+  },
+  {
+    "title": "TKKPT",
+    "summary": "Frontend for an international logistics resources integration platform. Integrated RESTful APIs and worked in weekly scrums.",
+    "tags": [
+      "React",
+      "REST API",
+      "Scrum"
+    ],
+    "url": "",
+    "repo": "",
+    "screenshot": "",
+    "category": "other"
+  },
+  {
+    "title": "BillyKingShop",
+    "summary": "E-commerce tooling for managing Steam inventory, translations, and workflows.",
+    "tags": [
+      "React",
+      "Firebase",
+      "Google Sheets"
+    ],
+    "url": "",
+    "repo": "",
+    "screenshot": "",
+    "category": "other"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "headline": "Freelance full‑stack engineer · product + engineering",
+  "nav": { "projects": "Projects", "resume": "Resume", "contact": "Contact" },
+  "hero": {
+    "title": "Hi, I’m Garry.",
+    "body": "I build web products end‑to‑end — from UI and data pipelines to deployment. This page is generated from editable JSON data files.",
+    "ctaProjects": "View projects",
+    "ctaResume": "Read resume",
+    "tip": "Tip: edit docs/data/projects.*.json and docs/data/resume.*.json to update content."
+  },
+  "projectsTabs": { "tzuchi": "Tzu Chi", "other": "Other" },
+  "section": {
+    "projects": "Projects",
+    "projectsHint": "Gallery cards + screenshots + links.",
+    "resume": "Resume",
+    "resumeHint": "Experience, skills, education.",
+    "contact": "Contact",
+    "contactHint": "Links below (edit in resume.json)."
+  },
+  "resume": { "experience": "Experience", "skills": "Skills", "education": "Education" },
+  "project": { "live": "Live", "repo": "Repo" }
+}

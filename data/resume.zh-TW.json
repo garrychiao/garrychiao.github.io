@@ -1,0 +1,62 @@
+{
+  "name": "Garry Chiao",
+  "headline": "自由接案全端工程師",
+  "location": "台灣",
+  "summary": "具備 7+ 年網頁開發經驗，擅長以使用者導向與工程思維解決複雜問題，從 UI、串接到部署維運皆可端到端交付。",
+  "experience": [
+    {
+      "company": "自由接案",
+      "role": "全端工程師（慈濟網站翻新）",
+      "period": "2021/09 — 現在",
+      "location": "台灣",
+      "bullets": [
+        "負責多個慈濟網站專案翻新與維護（Next.js/React），強化效能、可用性與可維護性。",
+        "與利害關係人密切溝通需求，採迭代方式持續交付與優化。",
+        "端到端負責 UI 實作、API 串接、部署與後續維運。"
+      ]
+    },
+    {
+      "company": "GreenPeace TW",
+      "role": "前端工程師",
+      "period": "2017/06 — 現在",
+      "location": "",
+      "bullets": [
+        "與團隊合作規劃倡議活動策略與訊息，提升對支持者與捐款者的溝通成效。",
+        "管理聯絡人名單並追蹤互動指標，優化投放與觸達精準度。"
+      ]
+    },
+    {
+      "company": "TimesMarketing",
+      "role": "全端工程師",
+      "period": "2017/06 — 2021/08",
+      "location": "",
+      "bullets": [
+        "熟悉 Vue.js、Node.js、Solidity 與 GCP 服務的網站與區塊鏈開發。",
+        "打造以使用者為中心的高品質產品，解決真實與虛擬世界的問題。"
+      ]
+    }
+  ],
+  "skills": [
+    "JavaScript/TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Firebase",
+    "GCP",
+    "SQL",
+    "Git",
+    "Agile / Scrum"
+  ],
+  "education": [
+    {
+      "school": "國立中央大學（National Central University）",
+      "degree": "管理資訊系學士（MIS）",
+      "period": "2012 — 2016"
+    }
+  ],
+  "links": [
+    { "label": "Email", "url": "mailto:garry.chiao@full-stack-artisan.com" },
+    { "label": "Phone", "url": "tel:+886958283083" },
+    { "label": "GitHub", "url": "https://github.com/garrychiao" }
+  ]
+}

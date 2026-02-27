@@ -1,0 +1,62 @@
+{
+  "name": "Garry Chiao",
+  "headline": "Freelance Full‑Stack Engineer",
+  "location": "Taiwan",
+  "summary": "Skilled and collaborative web developer with 7+ years of experience delivering user-centered web systems end-to-end — from UI and integrations to deployment and maintenance.",
+  "experience": [
+    {
+      "company": "Freelance",
+      "role": "Full‑Stack Engineer (Tzu Chi Web Revamp)",
+      "period": "Sep 2021 — Present",
+      "location": "Taiwan",
+      "bullets": [
+        "Modernize and maintain multiple Tzu Chi web properties (Next.js/React) with a focus on performance, usability, and maintainability.",
+        "Work closely with stakeholders to clarify requirements and deliver iterative improvements.",
+        "Own end‑to‑end delivery including UI implementation, API integration, deployment, and ongoing operations."
+      ]
+    },
+    {
+      "company": "GreenPeace TW",
+      "role": "Front‑End Developer",
+      "period": "Jun 2017 — Present",
+      "location": "",
+      "bullets": [
+        "Collaborate with a team to develop campaign strategies and messaging for supporters and donors.",
+        "Manage contact lists and track engagement metrics to ensure outreach is effective and well‑targeted."
+      ]
+    },
+    {
+      "company": "TimesMarketing",
+      "role": "Full‑Stack Developer",
+      "period": "Jun 2017 — Aug 2021",
+      "location": "",
+      "bullets": [
+        "Proficient web and blockchain developer (Vue.js, Node.js, Solidity, GCP services).",
+        "Create high‑quality, user‑focused applications that solve real and virtual world problems."
+      ]
+    }
+  ],
+  "skills": [
+    "JavaScript/TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Firebase",
+    "GCP",
+    "SQL",
+    "Git",
+    "Agile/Scrum"
+  ],
+  "education": [
+    {
+      "school": "National Central University (國立中央大學)",
+      "degree": "B.A., Management Information Systems",
+      "period": "2012 — 2016"
+    }
+  ],
+  "links": [
+    { "label": "Email", "url": "mailto:garry.chiao@full-stack-artisan.com" },
+    { "label": "Phone", "url": "tel:+886958283083" },
+    { "label": "GitHub", "url": "https://github.com/garrychiao" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "headline": "自由接案全端工程師 · 產品與工程",
+  "nav": { "projects": "作品", "resume": "履歷", "contact": "聯絡" },
+  "hero": {
+    "title": "嗨，我是 Garry。",
+    "body": "我從 UI、資料串接到部署都能一條龍完成。這個網站的內容來自可編輯的 JSON 資料檔。",
+    "ctaProjects": "看作品",
+    "ctaResume": "看履歷",
+    "tip": "提示：修改 docs/data/projects.*.json 與 docs/data/resume.*.json 就能更新內容。"
+  },
+  "projectsTabs": { "tzuchi": "慈濟專案", "other": "其他專案" },
+  "section": {
+    "projects": "作品",
+    "projectsHint": "卡片式作品集＋截圖＋連結。",
+    "resume": "履歷",
+    "resumeHint": "經歷、技能、學歷。",
+    "contact": "聯絡",
+    "contactHint": "聯絡連結（在 resume.json 裡編輯）。"
+  },
+  "resume": { "experience": "經歷", "skills": "技能", "education": "學歷" },
+  "project": { "live": "網站", "repo": "原始碼" }
+}
