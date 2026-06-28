@@ -2,17 +2,64 @@
   {
     "title": "TzuChi — Project Collection",
     "summary": "A collection of web projects (events, info portal, map embeds) built with Next.js.",
-    "tags": ["Next.js", "React", "GCP", "Firebase"],
+    "tags": [
+      "Next.js",
+      "React",
+      "GCP",
+      "Firebase"
+    ],
     "url": "https://community.tzuchi.org/",
     "repo": "",
     "screenshot": ""
   },
   {
+    "title": "PocketMeow PawBox",
+    "summary": "Pet-themed blind box e-commerce platform rebuilt with Next.js, Firebase, and AI-powered content workflows.",
+    "tags": [
+      "Next.js",
+      "React",
+      "Firebase",
+      "AI Agents"
+    ],
+    "url": "https://pocketmeow.com",
+    "repo": "",
+    "screenshot": "assets/projects/pocketmeow-image.png"
+  },
+  {
+    "title": "ShopLocal.tw",
+    "summary": "A platform that generates responsive one-page sites for local businesses from Google Maps data.",
+    "tags": [
+      "Next.js",
+      "Node.js",
+      "Firebase",
+      "Google Maps API"
+    ],
+    "url": "https://shoplocal.tw",
+    "repo": "",
+    "screenshot": "assets/projects/shoplocaltw-image.png"
+  },
+  {
+    "title": "Jobbly",
+    "summary": "Chrome extension + web platform helping overseas students in the U.S. manage resumes, find jobs, and track applications.",
+    "tags": [
+      "Chrome Extension",
+      "Web Platform",
+      "AI"
+    ],
+    "url": "https://jobbly.io/",
+    "repo": "",
+    "screenshot": "assets/projects/jobbly-card.svg"
+  },
+  {
     "title": "BillyKingShop",
     "summary": "E-commerce tooling for managing Steam inventory, translations, and workflows.",
-    "tags": ["React", "Firebase", "Google Sheets"],
+    "tags": [
+      "React",
+      "Firebase",
+      "Google Sheets"
+    ],
     "url": "",
     "repo": "",
-    "screenshot": ""
+    "screenshot": "assets/projects/billykingshop-card.svg"
   }
 ]

@@ -117,28 +117,44 @@
     "category": "tzuchi"
   },
   {
+    "title": "開個毛盒 (PocketMeow PawBox)",
+    "summary": "寵物主題盲盒電商與 AI 整合平台，透過 Next.js 與 Firebase 重構前台與即時資料流程，並把 AI 圖像生成工作流接進營運流程。",
+    "tags": [
+      "Next.js",
+      "React",
+      "Firebase",
+      "AI Agents"
+    ],
+    "url": "https://pocketmeow.com",
+    "repo": "",
+    "screenshot": "assets/projects/pocketmeow-image.png",
+    "category": "other"
+  },
+  {
+    "title": "ShopLocal.tw",
+    "summary": "在地商家一頁式網站生成平台，自動抓取 Google Maps 商家資料並動態產出響應式行銷網站。",
+    "tags": [
+      "Next.js",
+      "Node.js",
+      "Firebase",
+      "Google Maps API"
+    ],
+    "url": "https://shoplocal.tw",
+    "repo": "",
+    "screenshot": "assets/projects/shoplocaltw-image.png",
+    "category": "other"
+  },
+  {
     "title": "Jobbly",
     "summary": "Chrome 擴充功能與網站平台，協助在美海外學生管理履歷、找工作並追蹤投遞進度。",
     "tags": [
       "Chrome 擴充",
-      "Web 平台"
+      "Web 平台",
+      "AI"
     ],
     "url": "https://jobbly.io/",
     "repo": "",
-    "screenshot": "",
-    "category": "other"
-  },
-  {
-    "title": "TKKPT",
-    "summary": "國際物流資源整合平台前端（React）。與後端串接 RESTful API，並在每週 Scrum 中同步進度。",
-    "tags": [
-      "React",
-      "REST API",
-      "Scrum"
-    ],
-    "url": "",
-    "repo": "",
-    "screenshot": "",
+    "screenshot": "assets/projects/jobbly-card.svg",
     "category": "other"
   },
   {
@@ -151,7 +167,7 @@
     ],
     "url": "",
     "repo": "",
-    "screenshot": "",
+    "screenshot": "assets/projects/billykingshop-card.svg",
     "category": "other"
   }
 ]

@@ -1,62 +1,109 @@
 {
   "name": "Garry Chiao",
-  "headline": "Freelance Full‑Stack Engineer",
+  "headline": "Full-Stack Engineer",
   "location": "Taiwan",
-  "summary": "Skilled and collaborative web developer with 7+ years of experience delivering user-centered web systems end-to-end — from UI and integrations to deployment and maintenance.",
+  "summary": "Full-stack engineer with 8+ years of software development experience across web applications, SaaS platforms, system integration, and blockchain-related solutions. Experienced in the full delivery cycle from requirements analysis and system design to implementation, deployment, and ongoing optimization, with hands-on work in AI products, customized client systems, and large-scale CRM operations support.",
   "experience": [
     {
-      "company": "Freelance",
-      "role": "Full‑Stack Engineer (Tzu Chi Web Revamp)",
-      "period": "Sep 2021 — Present",
+      "company": "Yuan Cheng Tech",
+      "role": "Full-Stack Engineer (Contract)",
+      "period": "2023 — Present",
       "location": "Taiwan",
       "bullets": [
-        "Modernize and maintain multiple Tzu Chi web properties (Next.js/React) with a focus on performance, usability, and maintainability.",
-        "Work closely with stakeholders to clarify requirements and deliver iterative improvements.",
-        "Own end‑to‑end delivery including UI implementation, API integration, deployment, and ongoing operations."
+        "Collaborate with project managers and design teams to turn requirements and mockups into production-grade web applications.",
+        "Own front-end and back-end feature development, system integration, and API connectivity for scalable and maintainable systems.",
+        "Handle deployments, production operations, and technical troubleshooting to keep projects stable in real-world use.",
+        "Continuously improve performance, responsive behavior, and overall user experience through iterative delivery."
       ]
     },
     {
-      "company": "GreenPeace TW",
-      "role": "Front‑End Developer",
-      "period": "Jun 2017 — Present",
-      "location": "",
+      "company": "Full Stack Artisan",
+      "role": "Co-Founder & Full-Stack Engineer",
+      "period": "Sep 2021 — 2024",
+      "location": "Taiwan",
       "bullets": [
-        "Collaborate with a team to develop campaign strategies and messaging for supporters and donors.",
-        "Manage contact lists and track engagement metrics to ensure outreach is effective and well‑targeted."
+        "Co-founded Full Stack Artisan and built Jobbly, an AI resume optimization product that helps job seekers improve application quality and efficiency.",
+        "Led product planning, system architecture, and core implementation using a JavaScript-based stack for a Chrome Extension and related cloud services.",
+        "Built and led a six-person cross-functional team covering product delivery, execution, and client-facing work.",
+        "Delivered web development, system integration, and SaaS solutions for clients from analysis through deployment and maintenance."
+      ]
+    },
+    {
+      "company": "Greenpeace Taiwan",
+      "role": "Front-End Engineer",
+      "period": "Jun 2017 — 2025",
+      "location": "Taiwan",
+      "bullets": [
+        "Built and managed email marketing campaigns on Salesforce, including audience segmentation, delivery flows, and A/B testing.",
+        "Worked with marketing, content, and operations teams to translate campaign goals into executable digital workflows.",
+        "Tracked email and website performance with Salesforce and Google Analytics to support optimization decisions.",
+        "Maintained campaign and fundraising pages while validating tracking quality and conversion measurement."
       ]
     },
     {
       "company": "TimesMarketing",
-      "role": "Full‑Stack Developer",
+      "role": "Full-Stack Engineer",
       "period": "Jun 2017 — Aug 2021",
-      "location": "",
+      "location": "Taiwan",
       "bullets": [
-        "Proficient web and blockchain developer (Vue.js, Node.js, Solidity, GCP services).",
-        "Create high‑quality, user‑focused applications that solve real and virtual world problems."
+        "Developed Node.js backend systems, database structures, and API architecture for blockchain and fintech-related products.",
+        "Built and maintained RESTful APIs for front-end applications and third-party integrations.",
+        "Integrated cryptocurrency exchange APIs for market data ingestion, synchronization, and automated processing pipelines.",
+        "Contributed to blockchain application development including smart contracts, digital asset workflows, and business logic."
       ]
     }
   ],
   "skills": [
-    "JavaScript/TypeScript",
+    "JavaScript (ES6+)",
+    "SQL",
+    "Solidity",
     "React",
     "Next.js",
+    "Vue.js",
+    "HTML5",
+    "CSS3",
+    "Responsive Web Design",
     "Node.js",
+    "Express.js",
+    "RESTful APIs",
+    "Webhook Integration",
+    "MongoDB",
+    "MySQL",
+    "Google Cloud Platform",
     "Firebase",
-    "GCP",
-    "SQL",
+    "Linux",
+    "Nginx",
+    "PM2",
+    "gtag.js",
+    "Event Tracking",
+    "Conversion Tracking",
     "Git",
-    "Agile/Scrum"
+    "Agile",
+    "Scrum"
   ],
   "education": [
     {
-      "school": "National Central University (國立中央大學)",
+      "school": "National Central University",
       "degree": "B.A., Management Information Systems",
       "period": "2012 — 2016"
     }
   ],
   "links": [
-    { "label": "Email", "url": "mailto:garry.chiao@full-stack-artisan.com" },
-    { "label": "Phone", "url": "tel:+886958283083" },
-    { "label": "GitHub", "url": "https://github.com/garrychiao" }
+    {
+      "label": "Portfolio",
+      "url": "https://garrychiao.github.io/"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/garrychiao/"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:g50905g@gmail.com"
+    },
+    {
+      "label": "Phone",
+      "url": "tel:+886958283083"
+    }
   ]
 }

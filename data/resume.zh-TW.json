@@ -1,62 +1,113 @@
 {
-  "name": "Garry Chiao",
-  "headline": "自由接案全端工程師",
-  "location": "台灣",
-  "summary": "具備 7+ 年網頁開發經驗，擅長以使用者導向與工程思維解決複雜問題，從 UI、串接到部署維運皆可端到端交付。",
+  "name": "焦崑華 Garry Chiao",
+  "headline": "全端工程師",
+  "location": "Taiwan",
+  "summary": "具備 8 年以上軟體開發經驗的全端工程師，專注於 Web 應用、SaaS 平台、系統整合及區塊鏈相關解決方案開發。擁有從需求分析、系統設計、開發部署到維運優化的完整專案經驗，曾參與 AI 產品開發、客戶客製化系統建置及大型 CRM 平台營運支援。",
   "experience": [
     {
-      "company": "自由接案",
-      "role": "全端工程師（慈濟網站翻新）",
-      "period": "2021/09 — 現在",
+      "company": "遠程科技",
+      "role": "全端工程師（合作接案）",
+      "period": "2023 — 現在",
       "location": "台灣",
       "bullets": [
-        "負責多個慈濟網站專案翻新與維護（Next.js/React），強化效能、可用性與可維護性。",
-        "與利害關係人密切溝通需求，採迭代方式持續交付與優化。",
-        "端到端負責 UI 實作、API 串接、部署與後續維運。"
+        "與專案經理及設計團隊協作，將需求規格與設計稿實作為高品質的 Web 應用程式。",
+        "負責前後端功能開發、系統整合及 API 串接，交付可擴充且易於維護的系統。",
+        "負責系統部署、正式環境維運及技術問題排查，確保專案穩定運行。",
+        "持續優化網站效能、響應式設計及使用者體驗，提升產品品質與整體效能。",
+        "配合專案需求進行功能迭代與版本發布，確保專案如期交付並滿足客戶需求。"
       ]
     },
     {
-      "company": "GreenPeace TW",
-      "role": "前端工程師",
-      "period": "2017/06 — 現在",
-      "location": "",
+      "company": "Full Stack Artisan",
+      "role": "創辦人暨全端工程師",
+      "period": "2021/09 — 2024",
+      "location": "台灣",
       "bullets": [
-        "與團隊合作規劃倡議活動策略與訊息，提升對支持者與捐款者的溝通成效。",
-        "管理聯絡人名單並追蹤互動指標，優化投放與觸達精準度。"
+        "共同創立 Full Stack Artisan，開發 AI 履歷優化產品 Jobbly，協助求職者提升履歷品質與求職效率。",
+        "主導產品規劃、系統架構設計及核心功能開發，使用 JavaScript 技術棧打造 Chrome Extension 與相關雲端服務。",
+        "組建並領導 6 人跨職能團隊，負責產品開發、專案執行及客戶交付。",
+        "同時為海內外客戶提供網站開發、系統整合及 SaaS 解決方案，涵蓋需求分析、系統開發、部署及維運。",
+        "擔任客戶主要技術窗口，協助排查技術問題、評估解決方案並推動專案順利交付。"
+      ]
+    },
+    {
+      "company": "Greenpeace Taiwan",
+      "role": "前端工程師",
+      "period": "2017/06 — 2025",
+      "location": "台灣",
+      "bullets": [
+        "使用 Salesforce 平台建立及管理電子郵件行銷活動，依據專案需求設定發送流程、受眾分群及 A/B Testing。",
+        "與行銷、內容及營運團隊合作，將活動需求轉換為可執行的數位行銷方案，確保活動順利上線。",
+        "透過 Salesforce 與 Google Analytics 追蹤電子郵件及網站互動成效，分析開信率、點擊率及使用者行為數據，支援後續優化決策。",
+        "參與連署活動網站及募款頁面開發與維護，協助提升使用者體驗及活動轉換成效。",
+        "協助驗證追蹤機制與活動數據正確性，確保數位行銷及募款活動能有效衡量成效。"
       ]
     },
     {
       "company": "TimesMarketing",
       "role": "全端工程師",
       "period": "2017/06 — 2021/08",
-      "location": "",
+      "location": "台灣",
       "bullets": [
-        "熟悉 Vue.js、Node.js、Solidity 與 GCP 服務的網站與區塊鏈開發。",
-        "打造以使用者為中心的高品質產品，解決真實與虛擬世界的問題。"
+        "負責 Node.js 後端系統開發、資料庫設計及 API 架構規劃，支援多項區塊鏈與金融科技相關應用。",
+        "開發及維護 RESTful API，提供前端系統及第三方服務穩定且可擴展的資料存取介面。",
+        "串接多家加密貨幣交易所 API，實作市場資料擷取、交易資訊同步及自動化資料處理流程。",
+        "參與區塊鏈應用開發，包含智能合約、數位資產管理及相關業務邏輯實作。",
+        "與前端及產品團隊協作，將商業需求轉換為可維護且具擴展性的系統架構與功能設計。"
       ]
     }
   ],
   "skills": [
-    "JavaScript/TypeScript",
+    "JavaScript（ES6+）",
+    "SQL",
+    "Solidity",
     "React",
     "Next.js",
+    "Vue.js",
+    "HTML5",
+    "CSS3",
+    "RWD 響應式網站開發",
     "Node.js",
+    "Express.js",
+    "RESTful API 設計與串接",
+    "Webhook 整合",
+    "MongoDB",
+    "MySQL",
+    "Google Cloud Platform（GCP）",
     "Firebase",
-    "GCP",
-    "SQL",
+    "Linux",
+    "Nginx",
+    "PM2",
+    "gtag.js",
+    "事件追蹤（Event Tracking）",
+    "轉換追蹤（Conversion Tracking）",
     "Git",
-    "Agile / Scrum"
+    "Agile",
+    "Scrum"
   ],
   "education": [
     {
-      "school": "國立中央大學（National Central University）",
-      "degree": "管理資訊系學士（MIS）",
+      "school": "國立中央大學 National Central University",
+      "degree": "資訊管理學系 BA, Management Information Systems",
       "period": "2012 — 2016"
     }
   ],
   "links": [
-    { "label": "Email", "url": "mailto:garry.chiao@full-stack-artisan.com" },
-    { "label": "Phone", "url": "tel:+886958283083" },
-    { "label": "GitHub", "url": "https://github.com/garrychiao" }
+    {
+      "label": "作品集",
+      "url": "https://garrychiao.github.io/"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/garrychiao/"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:g50905g@gmail.com"
+    },
+    {
+      "label": "Phone",
+      "url": "tel:+886958283083"
+    }
   ]
 }

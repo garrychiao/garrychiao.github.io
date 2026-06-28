@@ -26,7 +26,7 @@
     "category": "tzuchi"
   },
   {
-    "title": "Tzu Chi Books (E‑Book Library)",
+    "title": "Tzu Chi Books (E-Book Library)",
     "summary": "Digital publication library with browsing, search, and book detail pages.",
     "tags": [
       "Next.js",
@@ -52,7 +52,7 @@
     "category": "tzuchi"
   },
   {
-    "title": "Tzu Chi Event —募心募愛",
+    "title": "Tzu Chi Event - 募心募愛",
     "summary": "Campaign landing experience for donations and outreach.",
     "tags": [
       "Next.js",
@@ -91,7 +91,7 @@
     "category": "tzuchi"
   },
   {
-    "title": "Year‑End Blessing (歲末祝福)",
+    "title": "Year-End Blessing (歲末祝福)",
     "summary": "Year-end blessing event site with annual routes.",
     "tags": [
       "Next.js",
@@ -117,28 +117,44 @@
     "category": "tzuchi"
   },
   {
+    "title": "PocketMeow PawBox",
+    "summary": "Pet-themed blind box e-commerce platform rebuilt with Next.js and Firebase, with AI image-generation workflows integrated into daily operations.",
+    "tags": [
+      "Next.js",
+      "React",
+      "Firebase",
+      "AI Agents"
+    ],
+    "url": "https://pocketmeow.com",
+    "repo": "",
+    "screenshot": "assets/projects/pocketmeow-image.png",
+    "category": "other"
+  },
+  {
+    "title": "ShopLocal.tw",
+    "summary": "One-page website generation platform for local businesses that pulls Google Maps business data and produces responsive landing pages automatically.",
+    "tags": [
+      "Next.js",
+      "Node.js",
+      "Firebase",
+      "Google Maps API"
+    ],
+    "url": "https://shoplocal.tw",
+    "repo": "",
+    "screenshot": "assets/projects/shoplocaltw-image.png",
+    "category": "other"
+  },
+  {
     "title": "Jobbly",
     "summary": "Chrome extension + web platform helping overseas students in the U.S. manage resumes, find jobs, and track applications.",
     "tags": [
       "Chrome Extension",
-      "Web Platform"
+      "Web Platform",
+      "AI"
     ],
     "url": "https://jobbly.io/",
     "repo": "",
-    "screenshot": "",
-    "category": "other"
-  },
-  {
-    "title": "TKKPT",
-    "summary": "Frontend for an international logistics resources integration platform. Integrated RESTful APIs and worked in weekly scrums.",
-    "tags": [
-      "React",
-      "REST API",
-      "Scrum"
-    ],
-    "url": "",
-    "repo": "",
-    "screenshot": "",
+    "screenshot": "assets/projects/jobbly-card.svg",
     "category": "other"
   },
   {
@@ -151,7 +167,7 @@
     ],
     "url": "",
     "repo": "",
-    "screenshot": "",
+    "screenshot": "assets/projects/billykingshop-card.svg",
     "category": "other"
   }
 ]
