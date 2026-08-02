@@ -13,7 +13,20 @@
     "screenshot": ""
   },
   {
-    "title": "PocketMeow PawBox",
+    "title": "AeroCogni",
+    "summary": "Browser-based pilot aptitude training platform focused on reaction time, tracking precision, multitasking, and repeatable performance analysis.",
+    "tags": [
+      "Next.js",
+      "Node.js",
+      "Firebase",
+      "iOS/Android Web App"
+    ],
+    "url": "https://aerocogni.com",
+    "repo": "",
+    "screenshot": "assets/projects/aerocogni-image.png"
+  },
+  {
+    "title": "PocketMeow PetBox",
     "summary": "Pet-themed blind box e-commerce platform rebuilt with Next.js, Firebase, and AI-powered content workflows.",
     "tags": [
       "Next.js",
@@ -21,7 +34,7 @@
       "Firebase",
       "AI Agents"
     ],
-    "url": "https://pocketmeow.com",
+    "url": "https://pocketmeow-petbox.com/",
     "repo": "",
     "screenshot": "assets/projects/pocketmeow-image.png"
   },
@@ -46,7 +59,7 @@
       "Web Platform",
       "AI"
     ],
-    "url": "https://jobbly.io/",
+    "url": "",
     "repo": "",
     "screenshot": "assets/projects/jobbly-card.svg"
   },

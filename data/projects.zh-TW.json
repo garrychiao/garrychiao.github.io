@@ -117,6 +117,20 @@
     "category": "tzuchi"
   },
   {
+    "title": "AeroCogni",
+    "summary": "瀏覽器型飛行員能力訓練平台，聚焦反應時間、追蹤精準度、多工任務與可重複的表現分析。",
+    "tags": [
+      "Next.js",
+      "Node.js",
+      "Firebase",
+      "iOS/Android Web App"
+    ],
+    "url": "https://aerocogni.com",
+    "repo": "",
+    "screenshot": "assets/projects/aerocogni-image.png",
+    "category": "other"
+  },
+  {
     "title": "開個毛盒 (PocketMeow PawBox)",
     "summary": "寵物主題盲盒電商與 AI 整合平台，透過 Next.js 與 Firebase 重構前台與即時資料流程，並把 AI 圖像生成工作流接進營運流程。",
     "tags": [
